@@ -9,7 +9,7 @@ $git clone https://github.com/Mryansfb/hackfb
 $ls
 $cd hackfb
 $ls
-$python2 hack.py
+$python2 Darkefbe.py
 
 >Yang sudah paham sc nih
 $git clone https://github.com/Mryansfb/hackfb
